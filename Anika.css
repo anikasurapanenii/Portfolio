@@ -1,0 +1,7 @@
+/*css for home page and about me page which blur the images when you hover over them */
+.blur img:hover {
+  transition-duration: 0.5s;
+  filter: blur(5px);
+}
+
+
